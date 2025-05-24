@@ -42,7 +42,6 @@ import product4 from "./product4.jpg";
 import product5 from "./product5.jpg";
 import product6 from "./product6.jpg";
 import product7 from "./product7.jpg";
-import product8 from "./product8.jpg";
 
 export const gridOrderImage = (props) => (
   <div>
@@ -104,9 +103,8 @@ export const EditorData = () => (
       you get started. Online Presence If you’re interested in seeing my work or
       projects, you can visit my online profiles on LinkedIn, GitHub, or my
       personal website. Using My Skills I can apply my skills quickly and
-      effectively, whether for small tasks or larger projects. 
-      
-      I’m always ready to expand my abilities or focus on specific challenges as needed. Starting
+      effectively, whether for small tasks or larger projects. I’m always ready
+      to expand my abilities or focus on specific challenges as needed. Starting
       New Projects When beginning new work, I prefer to keep things simple and
       clear, but as the project grows, I adapt and integrate more advanced
       techniques and tools. Learning Style I come from a curious mindset and
